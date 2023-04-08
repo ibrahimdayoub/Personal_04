@@ -1,0 +1,40 @@
+
++ Ibrahim Dayoub 12/2022
+
++ MERN Stack:
+	 - MongoDB
+	 - ExpressJs
+	 - ReactJs
+	 - NodeJs
+
++ Frontend Packages:
+	- react-router-dom
+	- @chakra-ui/react
+	- @chakra-ui/icons
+	- react-notification-badge
+	- react-scrollable-feed
+	- react-lottie
+	- axios
+	- socket.io-client
+
++ Backend Packages:
+ 	- express
+	- express-async-handler
+	- nodemon
+	- mongoose
+	- jsonwebtoken
+	- bcryptjs
+	- dotenv
+	- colors
+	- socket.io
+
++ Chakra UI => https://chakra-ui.com
+
++ Socket IO => https://socket.io
+
++ Cloudinary => https://console.cloudinary.com
+
++ MongoDB Atlas => https://cloud.mongodb.com
+
+
+
