@@ -1,4 +1,4 @@
-# personal_04
+# MERN Real Time Chat Application
 
 + Ibrahim Dayoub 12/2022
 
