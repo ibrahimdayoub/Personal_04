@@ -1,4 +1,4 @@
-# MERN Real Time Chat Application
+# MERN Chat Application
 
 + Ibrahim Dayoub 12/2022
 
